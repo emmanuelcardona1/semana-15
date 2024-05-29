@@ -1,0 +1,95 @@
+/* Estilos */
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: gray;
+    
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+nav {
+    margin-top: 20px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.reservation-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+}
+
+.reservation-btn a {
+    color: black;
+    text-decoration: none;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.product {
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.product img {
+    margin-bottom: 10px;
+}
+
+.cart {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.summary {
+    text-align: center;
+    color: black;
+}
+
+.proceed-to-checkout {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+        }
+        .redes-sociales {
+            margin-top: 20px;
+        }
+        .redes-sociales a {
+            color: #fff;
+            text-decoration: none;
+            margin-right: 20px;
+}
+
+.social-links img {
+    vertical-align: middle; /* Alinea los iconos verticalmente con el texto */
+}

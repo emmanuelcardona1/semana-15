@@ -1,0 +1,85 @@
+
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            
+        }
+        /* Encabezado */
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .logo {
+            width: 100px;
+            height: 100px;
+        }
+        nav {
+            margin-top: 20px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin-right: 30px;
+        }
+        /* Historia */
+        .historia {
+            background-color: #f9f9f9;
+            padding: 20px;
+            font-size: 20px;
+        }
+        /* Misión y Visión */
+        .mision-vision {
+            background-color: #e0e0e0;
+            padding: 20px;
+            font-size: 20px;
+        }
+        /* Equipo */
+        .barbero {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            font-size: 20px;
+       
+        }
+        .barbero img {
+            width: 200px;
+            height: 200px;
+            margin-right: 20px;
+            padding: 20px;
+        }
+        .barbero-info {
+            font-size: 18px;
+            
+        }
+        /* Botón de Reserva */
+        .reserva-btn {
+            display: block;
+            width: 200px;
+            height: 60px;
+            background-color: #ff6600;
+            color: #fff;
+            text-align: center;
+            line-height: 60px;
+            margin: 20px auto;
+            text-decoration: none;
+        }
+        /* Pie de Página */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+        }
+        .redes-sociales {
+            margin-top: 20px;
+        }
+        .redes-sociales a {
+            color: #fff;
+            text-decoration: none;
+            margin-right: 20px;
+        }

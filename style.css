@@ -1,0 +1,125 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    
+    background-image:  url();
+    font-family: Arial, sans-serif;
+}
+
+.boton-1{
+    margin: 0px;
+    padding: 0px;
+    position:absolute;
+   
+    
+    
+}
+.img-bienvenida{
+    margin-top: 10px;
+    text-align: center;
+}
+.welcome-text{
+    background-color: #e0e0e0;
+    text-align: center;
+    background-image: url();
+    
+}
+.img-corte{
+    margin-top: 10px;
+}
+.img-corte2{
+
+}
+/* Estilos del encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+nav {
+    margin-top: 20px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+button {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    
+ 
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.redes-sociales {
+    margin-top: 20px;
+}
+.redes-sociales a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* Estilos de la sección principal */
+#welcome-text {
+    
+    text-align: center;
+    background-color: white
+    ;
+}
+
+#welcome-text h1 {
+    font-size: 36px;
+}
+
+#welcome-text p {
+    font-size: 18px;
+}
+
+/* Estilos de la sección destacada */
+#featured-section {
+    text-align: center;
+    padding: 20px;
+}
+
+#featured-section h2 {
+    font-size: 36px;
+}
+
+.service {
+    margin-bottom: 20px;
+}
+
+.service img {
+    margin-right: 20px;
+}
+
+/* Estilos de la sección de promociones */
+#promotions-section {
+    text-align: center;
+    padding: 20px;
+}
+
+#promotions-section h2 {
+    font-size: 36px;
+}
+
+.promotion {
+    margin-bottom: 20px;
+}
+
+/* Estilos del pie de página */
